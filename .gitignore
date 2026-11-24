@@ -1,0 +1,12 @@
+/dist*/
+/test-output/
+*.exe
+*.pdb
+*.zip
+*.log
+*.bak
+*.tmp
+license.json
+native-settings.json
+**/.alipay-sandbox.json
+**/生产配置.json
